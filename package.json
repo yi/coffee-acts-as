@@ -1,0 +1,30 @@
+{
+  "name": "coffee-acts-as",
+  "version": "0.1.0",
+  "description": "a simple class-level mixin module for coffee-script, which provides a handy \"composition over inheritance\" way for writting complex programs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/acts_as_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yi/coffee-acts-as.git"
+  },
+  "keywords": [
+    "mixin",
+    "class",
+    "coffee",
+    "composition",
+    "acts_as"
+  ],
+  "author": "Yi Tan (http://github.com/yi)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "de2d11fc4ad8a7802040b0a1e74956da891a3735",
+  "bugs": {
+    "url": "https://github.com/yi/coffee-acts-as/issues"
+  }
+}
